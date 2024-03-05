@@ -1,0 +1,5 @@
+git remote add origin https://github.com/CRYPTOBULLIS/CRYPTOBULLIS.git
+git branch -M main asxasx
+git push -u origin main
+
+
